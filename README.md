@@ -18,10 +18,10 @@ git clone https://github.com/shuvikash/BSSpringBoot.git <br />
 
 
 ### How to run the project?
-You can run through terminal: <br />
+You can run it on terminal: <br />
 command: gradlew build bootRun <br />
-or, you can run through IntelliJ IDEA IDE by Application.java class because there is main method.<br />
-It will start the tomcat server on configured port(in my case:8086).<br />
+or, you can run on IntelliJ IDEA IDE by Application.java class because this class contains the main method.<br />
+It will start the tomcat server on the configured port(in my case:8086).<br />
 
-Api is called by react applicaton which is running on port 8080.<br />
-You can find react application in my repository.
+Api's are called by the react applicaton which is running on port 8080.<br />
+You can find the react application in my repository.
